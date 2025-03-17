@@ -1,2 +1,12 @@
-# Maharishi-Shiv
-Maharishi-Shiv: A decentralized blockchain platform integrating IAE (Information-Action-Existence) and DEO (Dynamic Existence Optimization) theories, dedicated to promoting Nature conservation and Yoga through transparent donations and knowledge sharing.
+# Maharishi-Shiv Chain (ॐ)
+
+An open-source blockchain based on IAE (Information-Action-Existence) & DEO (Dynamic Existence Optimization) theories.
+
+**Mission:**  
+Reprint and Redistribute Ancient Knowledge (Gyaan Vigyaan), Restore Nature & Promote Yoga through a Karma Economy.
+
+**Features:**  
+- Proof of Karma (PoK) Consensus  
+- Donation for Nature & Yoga  
+- NFT Knowledge Marketplace  
+- Karma Economy with SHIV Token
